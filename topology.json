@@ -1,8 +1,8 @@
 {
     "serverInstances" : [
         {
-            "instanceName" : "02-replicated-pair_pingdirectory1",
-            "hostname" : "02-replicated-pair_pingdirectory1",
+            "instanceName" : "02-replicated-pair_pingdirectory_1",
+            "hostname" : "02-replicated-pair_pingdirectory_1",
             "location" : "docker",
             "ldapPort" : 389,
             "ldapsPort" : 636,
@@ -12,8 +12,8 @@
             "product" : "DIRECTORY"
         },
         {
-            "instanceName" : "02-replicated-pair_pingdirectory2",
-            "hostname" : "02-replicated-pair_pingdirectory2",
+            "instanceName" : "02-replicated-pair_pingdirectory_2",
+            "hostname" : "02-replicated-pair_pingdirectory_2",
             "location" : "docker",
             "ldapPort" : 389,
             "ldapsPort" : 636,
